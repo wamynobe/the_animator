@@ -1,0 +1,26 @@
+{
+    "@@locale": "vi",
+    "counterAppBarTitle": "Đếm",
+    "@counterAppBarTitle": {
+        "description": "Văn bản cho tiêu đề của ứng dụng"
+    },
+    "route" : "Route",
+    "widgets" : "Widgets",
+    "settings" : "Cài đặt",
+    "deviceSettings" : "Cài đặt thiết bị",
+    "pushNotification" : "Thông báo đẩy",
+    "darkMode" : "Chế độ tối",
+    "language" : "Ngôn ngữ",
+    "on" : "Bật",
+    "off" : "Tắt",
+    "vietnamese" : "Tiếng Việt",
+    "english" : "English",
+    "system" : "Hệ thống",
+    "slideTransition": "Hiệu ứng trượt",
+    "goToSecondPage": "Đi đến trang thứ hai",
+    "from" : "Từ",
+    "left" : "Trái",
+    "right" : "Phải",
+    "bottom" : "Dưới",
+    "top" : "Trên"
+}

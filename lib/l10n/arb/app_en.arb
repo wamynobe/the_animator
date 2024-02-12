@@ -1,0 +1,28 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "route" : "Route",
+    "widgets" : "Widgets",
+    "settings" : "Settings",
+    "deviceSettings" : "Device Settings",
+    "pushNotification" : "Push Notification",
+    "darkMode" : "Dark Mode",
+    "language" : "Language",
+    "on"   : "On",
+    "off"  : "Off",
+    "english" : "English",
+    "vietnamese" : "Tiếng Việt",
+    "system": "System",
+    "slideTransition": "Slide Transition",
+    "goToSecondPage": "Go to Second Page",
+    "from" : "From",
+    "left" : "Left",
+    "right" : "Right",
+    "bottom" : "Bottom",
+    "top" : "Top"
+
+
+}
